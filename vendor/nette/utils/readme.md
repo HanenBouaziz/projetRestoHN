@@ -1,4 +1,4 @@
-[![Nette Utils](https://github.com/nette/utils/assets/194960/c33fdb74-0652-4cad-ac6e-c1ce0d29e32a)](https://doc.nette.org/en/utils)
+[![Nette Utils](https://github.com/nette/utils/assets//194960/c33fdb74-0652-4cad-ac6e-c1ce0d29e32a)](https://doc.nette.org/en/utils)
 
 [![Downloads this Month](https://img.shields.io/packagist/dm/nette/utils.svg)](https://packagist.org/packages/nette/utils)
 [![Tests](https://github.com/nette/utils/workflows/Tests/badge.svg?branch=master)](https://github.com/nette/utils/actions)
