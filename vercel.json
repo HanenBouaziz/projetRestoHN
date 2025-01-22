@@ -19,7 +19,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://vercel.com/hanens-projects-fe5f66e5",
+        "APP_URL": "https://vercel.com/hanens-projects",
         "APP_KEY": "base64:/hXOfZIColovr3JI+FSPa5p3wlcXi3Ue0xJqx8xyMvo=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
